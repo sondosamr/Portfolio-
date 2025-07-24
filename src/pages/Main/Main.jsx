@@ -5,9 +5,9 @@ import Home from './Home';
 import Education from './Education';
 import Training from './Training';
 import Skills from './Skills';
-import Work from './Work';
+import Work from './work';
 import Projects from './Projects';
-import Contact from './Contact';
+import Contact from './contact';
 
 import { useNavigate } from 'react-router-dom';
 
