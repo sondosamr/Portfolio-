@@ -1,0 +1,16 @@
+body, #root {
+
+  max-width: 1200px;  
+  margin: 0 auto;     
+  padding: 0 20px;    
+  box-sizing: border-box;
+  background-color: #131313;  
+  color: #e0e0e0;              
+}
+
+@media (max-width: 768px) {
+  body, #root {
+    padding: 0 10px;
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,44 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 60px;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.profile-img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #ccc;
+  margin-bottom: 20px;
+}
+
+.name-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0;
+  color: #ffffff;
+}
+
+.job-title {
+  font-size: 1.2rem;
+  color: #ffffffcc;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.about-me {
+  max-width: 600px;
+  margin: 20px auto;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.animated-word {
+  display: inline-block;
+  margin-right: 6px;
+}
