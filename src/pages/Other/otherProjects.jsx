@@ -12,7 +12,7 @@ const otherProjects = [
         repoLink: "https://github.com/sondosamr/SocialMediaApp.git",
         KaggleLink: "",   
         DriveLink: "",
-        demoLink: "/SocialApp_Angular.mp4",
+        demoLink: "https://drive.google.com/file/d/1sX-WhwXawN8BQuUdGHwtLHcaWj2xS0ST/view?usp=sharing",
         LookerLink: "",
         PowerLink: ""    
     }
