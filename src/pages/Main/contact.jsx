@@ -17,7 +17,7 @@ function Contact() {
         <a href={`mailto:${email}`} className="contact-btn">Email</a>
         <a href={linkedInUrl} target="_blank" rel="noopener noreferrer" className="contact-btn">LinkedIn</a>
         <a href={githubUrl} target="_blank" rel="noopener noreferrer" className="contact-btn">GitHub</a>
-        <a href="public/Resume.pdf" target="_blank" rel="noopener noreferrer" className="contact-btn">CV</a>
+        <a href="\Resume.pdf" target="_blank" rel="noopener noreferrer" className="contact-btn">CV</a>
       </div>
     </div>
   );
